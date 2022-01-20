@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "9d00d92563231728",
+    "type": "split",
+    "children": [
+      {
+        "id": "b27c1eeb0deaea86",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-01-20.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ccde4ced321d741",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bfeed3e7272db24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a56021d2c25f0664",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d703e0b279777f56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9b400875335cb670",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7135452cf48d5ac8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9615260135cf6ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "65f71b9ee79061f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0547917643dab56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-01-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b27c1eeb0deaea86",
+  "lastOpenFiles": [
+    "2022-01-20.md",
+    "2022-01-19.md",
+    "2022-01-17.md",
+    "2022-01-10.md",
+    "2022-01-04.md",
+    "2022-01-07.md",
+    "2022-01-06.md",
+    "2022-01-18.md",
+    "2022-01-14.md",
+    "2022-01-13.md"
+  ]
+}
