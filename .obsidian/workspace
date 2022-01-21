@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b27c1eeb0deaea86",
+        "id": "83a11fd9f679cad3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-01-20.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -51,11 +48,11 @@
         ]
       },
       {
-        "id": "9b400875335cb670",
+        "id": "c6ed2bfc9f033980",
         "type": "tabs",
         "children": [
           {
-            "id": "7135452cf48d5ac8",
+            "id": "b485b28dac419a4f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -73,16 +70,15 @@
     "type": "split",
     "children": [
       {
-        "id": "65f71b9ee79061f9",
+        "id": "4972d4ebfaf8293e",
         "type": "tabs",
         "children": [
           {
-            "id": "e0547917643dab56",
+            "id": "53f2c6cbeafa693c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,20 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b27c1eeb0deaea86",
+  "active": "83a11fd9f679cad3",
   "lastOpenFiles": [
-    "2022-01-20.md",
+    "2022-01-21.md",
     "2022-01-19.md",
-    "2022-01-17.md",
+    "2022-01-20.md",
     "2022-01-10.md",
-    "2022-01-04.md",
-    "2022-01-07.md",
-    "2022-01-06.md",
+    "2022-01-11.md",
+    "2022-01-13.md",
+    "2022-01-17.md",
     "2022-01-18.md",
-    "2022-01-14.md",
-    "2022-01-13.md"
+    "未命名 2.md",
+    "未命名 1.md"
   ]
 }
