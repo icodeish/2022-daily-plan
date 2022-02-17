@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-02-14.md",
+                "file": "2022-02-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02-14.md",
+                "file": "2022-02-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,8 @@
   },
   "active": "b19c5a1504b29bc8",
   "lastOpenFiles": [
+    "2022-02-17.md",
+    "2022-02-16.md",
     "2022-02-14.md",
     "2022-02-11.md",
     "2022-02-10.md",
@@ -124,8 +126,6 @@
     "2022-01-27.md",
     "2022-01-26.md",
     "2022-01-25.md",
-    "2022-01-24.md",
-    "2022-01-21.md",
-    "2022-01-19.md"
+    "2022-01-24.md"
   ]
 }
